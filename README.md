@@ -1,5 +1,3 @@
----
-
 # Sistema de Hospedagem de Hotel
 
 Este é um sistema simples de gerenciamento de reservas de hotel, que permite o cadastro de hóspedes e suítes, bem como a criação e manipulação de reservas. O projeto foi implementado em C# utilizando conceitos de programação orientada a objetos.
